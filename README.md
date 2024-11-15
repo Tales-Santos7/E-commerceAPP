@@ -12,6 +12,7 @@ E-commerceAPP é uma aplicação web desenvolvida para simular um ambiente de e-
 ### Links
 
 - URL do site ativo: [🛜Projeto ativo aqui💻](https://tales-santos7.github.io/E-commerceAPP/)
+- URL do video do canal Programação Web (https://youtu.be/JG2lcJeQuO8?si=u9K9vkYd4Utj4p8p/)
 
 ## Sobre esse Projeto 
 
