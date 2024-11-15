@@ -21,8 +21,11 @@ Ensinado pelo Prof.  Dimitri Teixeira.
 ### Funcionalidades 
 
 🌐 Listagem de Produtos: Exibe produtos com informações como nome, preço e imagem.
+
 🔍 Detalhes do Produto: Visualize informações detalhadas sobre cada item. 
-🛒 Carrinho de Compras: Adicione, remova e visualize os produtos escolhidos e a soma dos seus respectivos preços. 
+
+🛒 Carrinho de Compras: Adicione, remova e visualize os produtos escolhidos e a soma dos seus respectivos preços.
+
 📱 Responsivo: Otimizado para desktop e dispositivos móveis. 
 
 ### Construído com
