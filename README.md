@@ -15,7 +15,7 @@ E-commerceAPP é uma aplicação web desenvolvida para simular um ambiente de e-
 
 ## Sobre esse Projeto 
 
-Projeto "https://youtu.be/JG2lcJeQuO8?si=u9K9vkYd4Utj4p8p" do canal do "Programação Web".
+Projeto "https://youtu.be/JG2lcJeQuO8?si=u9K9vkYd4Utj4p8p" do canal do "Programação Web",
 Ensinado pelo Prof.  Dimitri Teixeira.
 
 ### Funcionalidades 
