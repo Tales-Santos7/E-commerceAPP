@@ -1,6 +1,6 @@
 # E-commerceAPP
 
-E-commerceAPP é uma aplicação web desenvolvida para simular um ambiente de e-commerce moderno e funcional. O projeto oferece uma interface intuitiva, com recursos de navegação, listagem de produtos, detalhes dos produtos e um carrinho de compras dinâmico. 
+E-commerceAPP é uma aplicação web/mobile, desenvolvida para simular um ambiente de e-commerce moderno e funcional. O projeto oferece uma interface intuitiva, com recursos de navegação, listagem de produtos, detalhes dos produtos e um carrinho de compras dinâmico. 
 
 
 ## Visão geral
