@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/airpod.png",
+        "nome": "Airpod",
+        "principal_caracteristica": "Branco",
+        "rating": 4.5,
+        "likes": "91%",
+        "reviews": 25,
+        "descricao": "Experimente a liberdade musical sem limites com os AirPods! Conectividade instantânea, som cristalino e design elegante. Viva a experiência sem fios que redefine a maneira como você ouve música. AirPods: a revolução do áudio sem esforço.",
+        "detalhes": [
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Bluetooth 5.0 para conexão rápida e estável"
+            },
+            {
+                "caracteristica": "Qualidade de Som",
+                "detalhes": "Áudio nítido e envolvente com tecnologia de cancelamento de ruído"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Ergonômico e discreto, se encaixa perfeitamente no ouvido"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Autonomia de até 5 horas de reprodução contínua, com estojo de carregamento"
+            },
+            {
+                "caracteristica": "Controles",
+                "detalhes": "Toque intuitivo para reprodução, pausa e atendimento de chamadas"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatível com dispositivos iOS, Android e outros equipamentos com Bluetooth"
+            },
+            {
+                "caracteristica": "Sensores",
+                "detalhes": "Sensores integrados para pausa automática ao remover dos ouvidos"
+            },
+            {
+                "caracteristica": "Resistência",
+                "detalhes": "Resistente a respingos e suor, ideal para uso durante exercícios físicos"
+            }
+        ],
+        "preco": 239.99,
+        "preco_promocional": 229.99
+    },
+    {
+        "id": 2,
+        "imagem": "img/iphone.png",
+        "nome": "Iphone 15 Pro Max",
+        "principal_caracteristica": "2 TB",
+        "rating": 3.8,
+        "likes": "94%",
+        "reviews": 15,
+        "descricao": "Explore o futuro da tecnologia com o iPhone 15 Pro Max. Desempenho excepcional, câmeras revolucionárias, e uma tela impressionante. Experimente a inovação nas suas mãos com design elegante e recursos avançados. iPhone 15 Pro Max - a evolução definitiva da experiência móvel.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Potente processador A16 para execução suave de aplicativos e jogos"
+            },
+            {
+                "caracteristica": "Câmeras",
+                "detalhes": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+            },
+            {
+                "caracteristica": "Segurança",
+                "detalhes": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+            }
+        ],
+        "preco": 15599.99,
+        "preco_promocional": 14999.99
+    },
+    {
+        "id": 3,
+        "imagem": "img/xbox.png",
+        "nome": "Xbox Series X",
+        "principal_caracteristica": "1 TB",
+        "rating": 4.5,
+        "likes": "96%",
+        "reviews": 25,
+        "descricao": "Explore o ápice do entretenimento gamer com o Xbox Series X. Desfrute de desempenho inigualável, gráficos de última geração e uma experiência imersiva como nunca antes. Xbox Series X - o futuro dos jogos está em suas mãos.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Processador customizado para oferecer jogabilidade suave e gráficos impressionantes"
+            },
+            {
+                "caracteristica": "Gráficos",
+                "detalhes": "Capacidade de reprodução em 4K real, proporcionando visuais incrivelmente detalhados"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD ultra rápido para carregamento instantâneo de jogos e experiência sem lag"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Design arrojado e compacto, complementando qualquer setup gamer"
+            },
+            {
+                "caracteristica": "Controle",
+                "detalhes": "Controle sem fio avançado com tecnologia Bluetooth e gatilhos adaptativos"
+            },
+            {
+                "caracteristica": "Biblioteca de Jogos",
+                "detalhes": "Acesso a uma ampla variedade de jogos, incluindo títulos exclusivos do Xbox Game Studios"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatibilidade retroativa com jogos de Xbox One, Xbox 360 e Xbox original"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Conectividade online estável para experiência multiplayer sem interrupções"
+            },
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "Capaz de suportar até 120 frames por segundo para uma jogabilidade ultrafluida"
+            }
+        ],
+        "preco": 3999.99,
+        "preco_promocional": 3799.99
+    },
+    {
+        "id": 4,
+        "imagem": "img/macbook.png",
+        "nome": "MacBook Pro 2023",
+        "principal_caracteristica": "512 GB 16GB RAM",
+        "rating": 4.8,
+        "likes": "89%",
+        "reviews": 30,
+        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "detalhes": [
+            {
+                "caracteristica": "Desempenho",
+                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+            },
+            {
+                "caracteristica": "Teclado",
+                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+            },
+            {
+                "caracteristica": "Sistema Operacional",
+                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
+            },
+            {
+                "caracteristica": "Segurança",
+                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+            }
+        ],
+        "preco": 8999.99,
+        "preco_promocional": 8699.99
+    }
+]

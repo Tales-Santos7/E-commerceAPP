@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar (Android only) -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Estilo Premium</title>
+    <!-- Path to Framework7 Library Bundle CSS -->
+    <link rel="stylesheet" href="src/lib/framework7-bundle.min.css">
+    <!-- CSS PERSONALIZADO PARA MENU-->
+    <link rel="stylesheet" href="src/css/index.css">
+    <link rel="stylesheet" href="src/css/detalhes.css">
+    <link rel="stylesheet" href="src/css/carrinho.css">
+    <!--Ícones Material Design-->
+    <link rel="stylesheet" href="src/css/materialdesignicons.min.css">
+    <!-- Remix icon -->
+    <link rel="stylesheet" href="src/css/remixicon/remixicon.css">
+
+</head>
+
+<body>
+    <!-- App root element -->
+    <div id="app">
+        <!-- Your main view, should have "view-main" class -->
+        <div class="view view-main">
+
+            <!-- Initial Page, "data-name" contains page name -->
+            <div data-name="detalhes" class="page color-theme-blue">
+
+                <!-- TAB BAR-->
+                <div class="toolbar toolbar-bottom">
+                    <div class="toolbar-inner display-flex align-items-center justify-content-center">
+                        <div class="flex-40 text-align-center">
+                            <span id="preco-detalhe" class="riscado color-gray">R$ 1400</span>
+                            <h3 id="precopromo-detalhe"  class="princing no-padding no-margin">R$ 1200</h3>
+                        </div>
+                        <div class="flex-60">
+                            <button class="add-cart">Adicionar ao Carrinho</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scrollable page content -->
+                <div class="page-content">
+                    <div class="prod-detail">
+                        <div class="buttons-top">
+                            <a href="/index/"><i class="ri-arrow-left-wide-fill"></i></a>
+                            <a href="#"><i class="ri-heart-3-line"></i></a> 
+
+                            <a href="/carrinho/" class="btn-cart" data-count="0"><i class="ri-shopping-bag-line"></i></a>
+                        </div>
+                        <img id="imagem-detalhe" src="src/img/default.png" alt="">
+                    </div>
+                    <div class="prod-content">
+                        <div class="block">
+                            <div class="line padding-top">
+                                <b id="nome-detalhe" class="margin-left">Nome do Produto</b>
+                                <button class="promo-btn">Promoção</button>
+                            </div>
+                            <div class="margin-top display-flex align-items-center justify-content-start">
+                                <button class="margin-left btn-rates"><i class="mdi mdi-star"> <span id="rating-detalhe">4.8</span></i></button>
+                                <button class="btn-rates"><i class="ri-thumb-up-fill"></i> <span id="like-detalhe">90%</span></i></button>
+                                <span id="reviews-detalhe" class="color-gray">110 reviews</span>
+                            </div>
+
+                            <div class="display-flex align-items-center justify-content-center">
+                                <p id="descricao-detalhe">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, at autem laborum
+                                    voluptatum consequatur alias explicabo quaerat dolores fugit laudantium rerum modi
+                                    neque tenetur, vero quod commodi quasi cum soluta?</p>
+                            </div>
+
+                            <table id="tabdetalhes">
+                                <tr>
+                                    <th>Características</th>
+                                    <th>Detalhes</th>
+                                </tr>
+                            
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Path to Framework7 Library Bundle JS-->
+    <script type="text/javascript" src="src/lib/framework7-bundle.min.js"></script>
+    <!-- jQuery -->
+    <script type="text/javascript" src="src/lib/jquery-3.7.0.min.js"></script>
+    <!-- Roteamento do app-->
+    <script type="text/javascript" src="src/js/routes.js"></script>
+    <script type="text/javascript" src="src/js/index.js"></script>
+    <script type="text/javascript" src="src/js/carrinho.js"></script>
+    <script type="text/javascript" src="src/js/detalhes.js"></script>
+    <script src="cordova.js/"></script>
+</body>
+
+</html>
