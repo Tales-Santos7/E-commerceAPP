@@ -7,7 +7,7 @@ E-commerceAPP é uma aplicação web/mobile, desenvolvida para simular um ambien
 
 ### Captura do projeto
 
-[<img src="./src/img/ecommerGIF.gif" alt="gif da dela inicial do projeto 'E-commerceAPP'">]
+<img src="./src/img/ecommerGIF.gif" alt="gif da dela inicial do projeto 'E-commerceAPP'">
 
 ### Links
 
